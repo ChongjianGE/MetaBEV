@@ -103,6 +103,10 @@ Our model achieves the following performance on :
 ## Acknowledgements
 The project is based on [mmdetection3d](https://github.com/open-mmlab/mmdetection3d), [BEVFusion](https://github.com/mit-han-lab/bevfusion), [robust benchmark](https://github.com/kcyu2014/lidar-camera-robust-benchmark). Thanks for their awesome works.
 
+### License
+
+This project is under the MIT license. See [LICENSE](LICENSE) for details.
+
 ## Citation
 If you find MetaBEV useful or relevant in your research please consider citing our paper:
 ```
