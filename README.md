@@ -16,9 +16,7 @@
 
 #### [Project Page](https://chongjiange.github.io/metabev.html) |  [arXiv](https://chongjiange.github.io/metabev.html)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TiEQpYq77Xo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-
+[![MetaBEV Demo](https://res.cloudinary.com/marcomontalbano/image/upload/v1681608647/video_to_markdown/images/youtube--TiEQpYq77Xo-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=TiEQpYq77Xo&list=PLB9_L58NpyEWcJhnX-a09CRXp-2kNEojY&index=1 "MetaBEV Demo")
 </div>
 
 
