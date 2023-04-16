@@ -28,8 +28,9 @@
 ## Abstract
 Perception systems in modern autonomous driving vehicles typically take inputs from complementary multi-modal sensors, e.g., LiDAR and cameras.
 However, in real-world applications, sensor corruptions and failures lead to inferior performances, thus compromising autonomous safety.
-<br>
+
 In this paper, we propose a robust framework, called MetaBEV, to address extreme real-world environments, involving overall **six sensor corruptions** and **two extreme sensor-missing situations.**
+
 Experiments show MetaBEV outperforms prior arts by a large margin on both full and corrupted modalities.
 For instance, when the LiDAR signal is missing, MetaBEV improves **35.5%** detection NDS and **17.7%** segmentation mIoU upon the vanilla BEVFusion model;
 and when the camera signal is absent, MetaBEV still achieves **69.2%** NDS and **53.7%** mIoU, which is even higher than previous works that perform on full-modalities.
