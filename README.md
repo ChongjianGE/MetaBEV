@@ -10,7 +10,7 @@
 [Zhongdao Wang](https://zhongdao.github.io/),
 [Lanqing Hong](https://scholar.google.com/citations?user=2p7x6OUAAAAJ&hl=zh-CN),
 [Huchuan Lu](https://scholar.google.com/citations?user=D3nE0agAAAAJ&hl=en),
-[Zhenguo Li](https://scholar.google.com/citations?user=XboZC1AAAAAJ&hl=en), and
+[Zhenguo Li](https://scholar.google.com/citations?user=XboZC1AAAAAJ&hl=en),
 [Ping Luo+](http://luoping.me/)
 <br>
 （* denotes equal contribution, + denotes corresponding authors）
