@@ -1,6 +1,5 @@
+
 <div align="center">
-
-
 
 ### **[MetaBEV: Solving Sensor Failures for BEV Detection and Map Segmentation](https://arxiv.org/abs/2110.05340)**
 
@@ -15,7 +14,7 @@
 <br>
 （* denotes equal contribution, + denotes corresponding authors）
 
-#### [Project Page](https://chongjiange.github.io/metabev.html) |  [arXiv](https://chongjiange.github.io/metabev.html)
+#### [Project Page](https://chongjiange.github.io/metabev.html) |  [arXiv](https://chongjiange.github.io/metabev.html) | [youtube demo](https://www.youtube.com/watch?v=TiEQpYq77Xo&list=PLB9_L58NpyEWcJhnX-a09CRXp-2kNEojY&index=2)
 
 [![MetaBEV Demo](https://res.cloudinary.com/marcomontalbano/image/upload/v1681608647/video_to_markdown/images/youtube--TiEQpYq77Xo-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=TiEQpYq77Xo&list=PLB9_L58NpyEWcJhnX-a09CRXp-2kNEojY&index=1 "MetaBEV Demo")
 </div>
@@ -105,7 +104,7 @@ Our model achieves the following performance on :
 The project is based on [mmdetection3d](https://github.com/open-mmlab/mmdetection3d), [BEVFusion](https://github.com/mit-han-lab/bevfusion), [robust benchmark](https://github.com/kcyu2014/lidar-camera-robust-benchmark). Thanks for their awesome works.
 
 ## Citation
-If you find our work useful in your research please consider citing our paper:
+If you find MetaBEV useful or relevant in your research please consider citing our paper:
 ```
 todo
 ```
