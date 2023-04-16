@@ -16,8 +16,12 @@
 
 #### [Project Page](https://chongjiange.github.io/metabev.html) |  [arXiv](https://chongjiange.github.io/metabev.html)
 
-![](static/metabev_demo.gif)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TiEQpYq77Xo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
 </div>
+
+
 
 ## Updates
 - (18/04/2023) Our paper is on arxiv. The code will be available once the paper is accepted.
