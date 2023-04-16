@@ -6,14 +6,14 @@
 
 [Chongjian GE*](https://chongjiange.github.io/),
 [Junsong Chen*](https://scholar.google.com/citations?user=p4zxPP8AAAAJ&hl=zh-CN),
-[Enze Xie](https://xieenze.github.io/),
+[Enze Xie+](https://xieenze.github.io/),
 [Zhongdao Wang](https://zhongdao.github.io/),
 [Lanqing Hong](https://scholar.google.com/citations?user=2p7x6OUAAAAJ&hl=zh-CN),
 [Huchuan Lu](https://scholar.google.com/citations?user=D3nE0agAAAAJ&hl=en),
 [Zhenguo Li](https://scholar.google.com/citations?user=XboZC1AAAAAJ&hl=en), and
-[Ping Luo](http://luoping.me/)
+[Ping Luo+](http://luoping.me/)
 <br>
-（* denotes equal contribution）
+（* denotes equal contribution, + denotes corresponding authors）
 
 #### [Project Page](https://chongjiange.github.io/metabev.html) |  [arXiv](https://chongjiange.github.io/metabev.html)
 
