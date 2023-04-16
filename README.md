@@ -38,7 +38,7 @@ Moreover, MetaBEV performs fairly against previous methods in both canonical per
 ## Results
 Our model achieves the following performance on :
 
-### Single Complementary Modalities.
+#### 1-Single Complementary Modalities.
 - Detection on nuScenes val set with LiDAR and Camera.
 
 |Methods|Modality|Multi-Task|mAP(val)|NDS(val)|
@@ -59,7 +59,7 @@ Our model achieves the following performance on :
 |MetaBEV|Camera+LiDAR|89.6|68.4|74.8|63.3|64.4|61.8|70.4|
 |MetaBEV|Camera+LiDAR|88.5|64.9|71.8|56.7|61.1|58.2|66.9|
 
-### Missing Modalities.
+#### 2-Missing Modalities.
 
 <table>
     <tr>
@@ -93,7 +93,7 @@ Our model achieves the following performance on :
     </tr>
 </table>
 
-### Corrupted Modalities.
+#### 3-Corrupted Modalities.
 ![](static/corrupted.png)
 
 
