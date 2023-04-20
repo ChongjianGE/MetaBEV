@@ -14,7 +14,7 @@
 <br>
 （* denotes equal contribution, + denotes corresponding authors）
 
-#### [Project Page](https://chongjiange.github.io/metabev.html) |  [arXiv](https://chongjiange.github.io/metabev.html) | [youtube demo](https://www.youtube.com/watch?v=TiEQpYq77Xo&list=PLB9_L58NpyEWcJhnX-a09CRXp-2kNEojY&index=2)
+#### [Project Page](https://chongjiange.github.io/metabev.html) |  [arXiv](https://arxiv.org/abs/2304.09801) | [youtube demo](https://www.youtube.com/watch?v=TiEQpYq77Xo&list=PLB9_L58NpyEWcJhnX-a09CRXp-2kNEojY&index=2)
 
 [![MetaBEV Demo](https://res.cloudinary.com/marcomontalbano/image/upload/v1681608647/video_to_markdown/images/youtube--TiEQpYq77Xo-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=TiEQpYq77Xo&list=PLB9_L58NpyEWcJhnX-a09CRXp-2kNEojY&index=1 "MetaBEV Demo")
 </div>
@@ -22,7 +22,7 @@
 
 
 ## Updates
-- (18/04/2023) MetaBEV is released on [arxiv](https://chongjiange.github.io/metabev.html). 
+- (20/04/2023) MetaBEV is released on [arxiv](https://arxiv.org/abs/2304.09801). 
 
 ## Abstract
 Perception systems in modern autonomous driving vehicles typically take inputs from complementary multi-modal sensors, e.g., LiDAR and cameras.
