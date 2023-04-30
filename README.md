@@ -1,7 +1,7 @@
 
 <div align="center">
 
-### **[MetaBEV: Solving Sensor Failures for BEV Detection and Map Segmentation](https://arxiv.org/abs/2110.05340)**
+### **[MetaBEV: Solving Sensor Failures for BEV Detection and Map Segmentation](https://arxiv.org/abs/2304.09801)**
 
 [Chongjian GE*](https://chongjiange.github.io/),
 [Junsong Chen*](https://scholar.google.com/citations?user=p4zxPP8AAAAJ&hl=zh-CN),
@@ -110,7 +110,12 @@ This project is under the MIT license. See [LICENSE](LICENSE) for details.
 ## Citation
 If you find MetaBEV useful or relevant in your research please consider citing our paper:
 ```
-todo
+@article{ge2023metabev,
+  title={MetaBEV: Solving Sensor Failures for BEV Detection and Map Segmentation},
+  author={Ge, Chongjian and Chen, Junsong and Xie, Enze and Wang, Zhongdao and Hong, Lanqing and Lu, Huchuan and Li, Zhenguo and Luo, Ping},
+  journal={arXiv preprint arXiv:2304.09801},
+  year={2023}
+}
 ```
 
 
